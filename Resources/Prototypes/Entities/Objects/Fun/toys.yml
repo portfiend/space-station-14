@@ -40,7 +40,6 @@
       - Payload
       - ClothMade
       - Plushie #imp
-    hidden: true
   - type: PhysicalComposition
     materialComposition:
       Cloth: 100
